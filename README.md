@@ -1,0 +1,2 @@
+# SelectionShortProjesi
+Patika.dev
