@@ -18,6 +18,13 @@ Big-O gösterimi: O(n^2)
 
 18 sayısı, dizi sıralandıktan sonra en az 3 adımda bir değişiklik yapılması gereken bir sayıdır. Bu nedenle, 18 sayısı worst case senaryosuna girer.
 
+18 sayısı average case kapsamına girer.
+
+Insertion Sort’un time complexity’si :
+
+Best Case : O(n)
+Worst Case : O(n²)
+Average Case : O(n²)
 
 
 Selection Sort:
@@ -30,5 +37,4 @@ Dizinin üçüncü en küçük elemanı (4) bulunur ve dizinin üçüncü eleman
 
 Dizinin dördüncü en küçük elemanı (5) bulunur ve dizinin dördüncü elemanı ile yer değiştirilir. Dizi şu şekilde görünür: [2,3,4,5,7,9,8,15,6]
 
-##Lütfen yanlışımı görürseniz bilgilendrin.
-patika.dev ödevidir
+## patika.dev ödevidir
